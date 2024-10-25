@@ -1,0 +1,37 @@
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/*
+    Created on : 27.05.2015, 15:19:31
+    Author     : Khankhodjaev A
+*/
+
+.demo-accsess-mess-div{display: none; position: fixed; top: 220px; left: 29%; width: 340px; min-height: 200px; ~padding: 20px; background: #fff; box-shadow: 0 0 91px #555;z-index: 99999;}
+.demo-accsess-mess-div .title{font-size: 16px;margin:15px 0 20px;text-align: center;}
+.demo-accsess-mess-div .title span{display: block;text-align: center;}
+.demo-accsess-mess-div .bdy{width: 340px; min-height: 187px;text-align: center;}
+.demo-accsess-mess-div .bdy .message{margin: 36px 0 10px;font-size: 18px; color: red;}
+.demo-accsess-mess-div .message.small{font-size: 15px;padding: 0 20px; margin-top: 10px;}
+.demo-accsess-mess-div .bdy .message.small a{font-size: 15px;}
+.demo-accsess-mess-div .bdy .btnp{padding: 20px 35px;color: #fff;}
+.demo-accsess-mess-div .bdy .btnp a{padding: 15px 55px;color: #fff;}
+.demo-accsess-mess-div .win-title{background-color: #005BA1; width:340px; height:38px; position:relative;}
+.demo-accsess-mess-div .close{padding:10px; background-color:#005BA1; position:absolute; right:0; z-index: 999999;}
+.demo-accsess-mess-div .close .icon{padding: 10px;}
+/*
+ * ÑÑ‚Ð°Ñ€Ñ‹Ð¹ Ð´Ð¸Ð·Ð°Ð¹Ð½
+.demo-accsess-mess-div{display: none; position: fixed; top: 220px; left: 29%; width: 500px; min-height: 260px; padding: 30px; background: #EAEFF4; box-shadow: 0 0 91px #555;z-index: 99999;}
+.demo-accsess-mess-div .title{font-size: 20px;margin:15px 20 20px;text-align: center;}
+.demo-accsess-mess-div .title span{display: block;text-align: center; margin-top: 50px}
+.demo-accsess-mess-div .bdy{width: 500px;min-height: 187px;text-align: center;padding: 15px;}
+.demo-accsess-mess-div .bdy .message{padding:4px ;font-size: 18px;color: red; font-weight: bold;}
+.demo-accsess-mess-div .message.small{font-size: 15px;margin-top: 10px;}
+.demo-accsess-mess-div .bdy .message.small a{font-size: 15px;}
+.demo-accsess-mess-div .bdy .btnp{padding: 40px 35px;color: #fff;}
+.demo-accsess-mess-div .bdy .btnp a{padding: 15px 55px;color: #fff;}
+.demo-accsess-mess-div .close{padding: 10px;background-color: #005BA1;display: block;position: absolute;right: 0;top: -27px;z-index: 999999;}
+.demo-accsess-mess-div .close .icon{padding: 10px;}
+*/
